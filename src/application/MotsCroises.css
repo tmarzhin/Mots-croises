@@ -1,0 +1,18 @@
+.text-input.is-current {
+    -fx-border-color: #00a0fc;
+    -fx-background-insets: 0.0, 0.0, 0.0, 0.0;
+    -fx-padding: 1 4 1 4;
+    -fx-border-width: 3px;
+}
+
+.has-error {
+    -fx-background-color: red;
+}
+
+.is-success {
+    -fx-background-color: rgba(0, 212, 0, 0.73);
+}
+
+.text-field {
+    -fx-font-size: 17px;
+}
